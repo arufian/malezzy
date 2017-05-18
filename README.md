@@ -15,7 +15,7 @@ Download minified file in [here](https://github.com/arufian/malezzy/releases/dow
 
 First add the script to your html.
 ```html
- <script type="text/javascript" src="https://cdn.rawgit.com/arufian/malezzy/master/malezzy.min.js" defer="true"></script>
+ <script type="text/javascript" src="/path/to/libs/malezzy.min.js" defer="true"></script>
 ```
 ### Basic usage
 
