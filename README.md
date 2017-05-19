@@ -29,5 +29,12 @@ Will load all images that have same selector name.
 ```javascript
   Malezzy.addImage(<element-selector>, <container-selector>);
 ```
-This option can be used to load image within a div, slider or event carousel.
+This option can be used to load image within a div, slider or even carousel.
+
+### On your html
+
+Instead of use `src`, please use `data-src` to define image source url.
+```html
+  <img data-src="/path/to/image" class="lazy-images" />
+```
 
